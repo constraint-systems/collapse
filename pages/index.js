@@ -181,8 +181,6 @@ const Home = () => {
       let aspect = img.width / img.height
       let window_aspect =
         (window.innerWidth - sp) / (window.innerHeight - sp * 8)
-      console.log(aspect)
-      console.log(window_aspect)
 
       let snapw, snaph
       if (aspect < window_aspect) {
