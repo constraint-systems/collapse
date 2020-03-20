@@ -828,7 +828,7 @@ const Home = () => {
             <div>
               <a
                 target="_blank"
-                href="https://github.com/constraint-systems/res"
+                href="https://github.com/constraint-systems/collapse"
               >
                 View source
               </a>
@@ -869,6 +869,12 @@ const Home = () => {
         }
         a {
           color: inherit;
+        }
+        button {
+          user-select: none;
+        }
+        .no-select {
+          user-select: none;
         }
       `}</style>
     </div>
