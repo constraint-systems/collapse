@@ -661,7 +661,7 @@ const Home = () => {
 
   let title = 'Collapse'
   // TODO
-  let description = 'Collapse an image into itself using ranked pixels.'
+  let description = 'Collapse an image into itself using ranked superpixels.'
   let share_img_url = 'https://collapse.constraint.systems/collapse.png'
   let og_url = 'https://collapse.constraint.systems'
 
