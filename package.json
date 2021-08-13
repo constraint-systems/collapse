@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "next": "9.3.0",
+    "next": "11.1.0",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   }
